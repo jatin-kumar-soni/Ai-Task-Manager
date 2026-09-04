@@ -1,0 +1,31 @@
+# Android Studio
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local Android configuration
+local.properties
+
+# Generated files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# APK files
+*.apk
+*.aab
+
+# macOS
+.DS_Store
+
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+.env.*
+!.env.example

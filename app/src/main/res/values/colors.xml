@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Basic -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- App colors -->
+    <color name="primary">#4F46E5</color>
+    <color name="primary_dark">#3730A3</color>
+    <color name="secondary">#7C3AED</color>
+
+    <!-- Light theme -->
+    <color name="background">#F8FAFC</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_hint">#94A3B8</color>
+
+    <color name="border">#E2E8F0</color>
+    <color name="divider">#E5E7EB</color>
+
+    <!-- Status -->
+    <color name="success">#16A34A</color>
+    <color name="warning">#D97706</color>
+    <color name="error">#DC2626</color>
+
+    <!-- Priority -->
+    <color name="priority_low">#16A34A</color>
+    <color name="priority_medium">#D97706</color>
+    <color name="priority_high">#DC2626</color>
+
+</resources>
