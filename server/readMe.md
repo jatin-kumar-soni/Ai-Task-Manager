@@ -835,7 +835,7 @@ Shows:
 - Tasks
 - Completion controls
 
-![Task List](screenshots/02-task-list.png)
+![Task List](screenshots/02-task-list.jpg)
 
 ### AI Task Creation
 
@@ -845,7 +845,7 @@ Shows:
 - AI-generated task information
 - Review and edit functionality
 
-![AI Task Creation](screenshots/03-ai-task.png)
+![AI Task Creation](screenshots/03-ai-task.jpg)
 
 ### AI Subtasks
 
@@ -856,13 +856,13 @@ Shows:
 - Checkbox completion
 - Progress tracking
 
-![AI Subtasks](screenshots/04-ai-subtasks.png)
+![AI Subtasks](screenshots/04-ai-subtasks.jpg)
 
 ### Error Handling
 
 Shows the friendly error message when the backend is unavailable.
 
-![Error Handling](screenshots/05-error-handling.png)
+![Error Handling](screenshots/05-error-handling.jpg)
 
 ---
 
