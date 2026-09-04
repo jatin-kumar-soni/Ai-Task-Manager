@@ -22,6 +22,10 @@ The goal is to build a simple, practical mobile task manager that combines local
 
 ---
 
+## System Architecture
+
+!(screenshots/System-Architecture.png)
+
 ## Technology Stack
 
 ### Android Application
@@ -1192,6 +1196,5 @@ Show:
 Explain:
 
 > Network failures are handled using Retrofit's failure callback. HTTP errors and invalid responses are also handled separately so the application does not crash.
-
 
 ---
