@@ -24,7 +24,7 @@ The goal is to build a simple, practical mobile task manager that combines local
 
 ## System Architecture
 
-!(screenshots/System-Architecture.png)
+![image of System Architecture](screenshots/System-Architecture.png)
 
 ## Technology Stack
 
